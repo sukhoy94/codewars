@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69587a19-d059-4179-95d1-12c3c5942859" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/recursion/sumOfSecuence/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/security/crackPin/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,11 +46,14 @@
       <recent name="D:\coding\php\codewars\recursion" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.index.php (2)">
+  <component name="RunManager" selected="PHP Script.index.php (3)">
     <configuration name="index.php (1)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/recursion/greatestCommonDivisor/index.php">
       <method v="2" />
     </configuration>
     <configuration name="index.php (2)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/recursion/sumOfSecuence/index.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php (3)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/security/crackPin/index.php">
       <method v="2" />
     </configuration>
     <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/recursion/factorial/index.php">
@@ -58,6 +61,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.index.php (3)" />
         <item itemvalue="PHP Script.index.php (2)" />
         <item itemvalue="PHP Script.index.php (1)" />
         <item itemvalue="PHP Script.index.php" />
@@ -75,6 +79,7 @@
       <workItem from="1604056239698" duration="9055000" />
       <workItem from="1604138602136" duration="942000" />
       <workItem from="1604182530480" duration="1117000" />
+      <workItem from="1604233770147" duration="1056000" />
     </task>
     <servers />
   </component>
@@ -86,25 +91,25 @@
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
     <state x="987" y="382" key="#PHP/0.40.2560.1400/2560.360.1536.824@0.40.2560.1400" timestamp="1604057584278" />
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1604183657666">
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1604234218292">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.40.2560.1400/2560.360.1536.824@0.40.2560.1400" timestamp="1604183657666" />
-    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1604183657666">
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.40.2560.1400/2560.360.1536.824@0.40.2560.1400" timestamp="1604234218292" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1604234218291">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.center/0.40.2560.1400/2560.360.1536.824@0.40.2560.1400" timestamp="1604183657666" />
-    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1604183657666">
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.40.2560.1400/2560.360.1536.824@0.40.2560.1400" timestamp="1604234218291" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1604234218291">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.left/0.40.2560.1400/2560.360.1536.824@0.40.2560.1400" timestamp="1604183657666" />
-    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1604183657666">
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.40.2560.1400/2560.360.1536.824@0.40.2560.1400" timestamp="1604234218291" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1604234218292">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.right/0.40.2560.1400/2560.360.1536.824@0.40.2560.1400" timestamp="1604183657666" />
-    <state x="1114" y="663" key="NewPhpFileDialog" timestamp="1604182744432">
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.40.2560.1400/2560.360.1536.824@0.40.2560.1400" timestamp="1604234218292" />
+    <state x="1114" y="663" key="NewPhpFileDialog" timestamp="1604234021775">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state x="1114" y="663" key="NewPhpFileDialog/0.40.2560.1400/2560.360.1536.824@0.40.2560.1400" timestamp="1604182744432" />
+    <state x="1114" y="663" key="NewPhpFileDialog/0.40.2560.1400/2560.360.1536.824@0.40.2560.1400" timestamp="1604234021775" />
   </component>
 </project>
